@@ -1,0 +1,36 @@
+{
+  "name": "ekatra-telegram-chatbot",
+  "version": "1.0.0",
+  "description": "Ekatra Telegram chatbot is a node.js based interactive chatbot that helps deliver course contents to students via Telegram on regular basis.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "airtable": "^0.11.4",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "node-telegram-bot-api": "^0.57.0",
+    "nodemon": "^2.0.16",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekatraone/Ekatra-Telegram-ChatBot.git"
+  },
+  "keywords": [
+    "node.js",
+    "telegram",
+    "bot"
+  ],
+  "author": "Ramsha Shaikh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ekatraone/Ekatra-Telegram-ChatBot/issues"
+  },
+  "homepage": "https://github.com/ekatraone/Ekatra-Telegram-ChatBot#readme"
+}
