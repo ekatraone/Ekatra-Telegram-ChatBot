@@ -63,8 +63,9 @@ Airtable has two APIs:
 3. [**Railway**](https://railway.app/) : Railway is a platform for deployment where you can set up infrastructure, work with it locally, and then deploy to the cloud.
 ----
 ## Prerequisites
-1. [Airtable Account](https://airtable.com/signup)
-2. [Railway Account](https://railway.app/) [or any other cloud platform of your choice]
+1. [Telegram Account](https://web.telegram.org/k/)
+2. [Airtable Account](https://airtable.com/signup)
+3. [Railway Account](https://railway.app/) [or any other cloud platform of your choice]
 ---
 ## Initial Steps : Obtain required API Keys and Access Tokens  🔑
 
